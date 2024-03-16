@@ -13,7 +13,7 @@ const HomeScreen = ()=>{
                         <View>
                         <View style={tw`rounded-full border border-2 border-neutral-300 mr-2.5`}>
                         <Image style={[tw`rounded-full m-0.5`,{width: 80, height:80}]} 
-                        source={{uri:'https://instagram.fccu13-2.fna.fbcdn.net/v/t51.2885-19/383156242_2472788512880655_2504760637767351115_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fccu13-2.fna.fbcdn.net&_nc_cat=103&_nc_ohc=NCXW9DfmCU8AX-J2aIV&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBtI9fYpse8bFhBFKVzI0DOmPLYoUzad-SDGCWZpx4P2g&oe=652F85D1&_nc_sid=8b3546'}} />
+                        source={{uri:'https://www.salnet.xyz/5.png'}} />
                         </View>
                         <Text style={tw`text-center text-xs font-medium pt-1.5 text-neutral-900 font-normal`}>Your Story&nbsp;&nbsp;&nbsp;&nbsp;</Text>
                         </View>

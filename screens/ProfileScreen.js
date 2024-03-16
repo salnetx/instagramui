@@ -22,7 +22,7 @@ function ProfileScreen({navigation}) {
           <View style={[styles.card]}>
     <View style={styles.leftContainer}>
                     <Image
-        source={{ uri: 'https://instagram.fccu13-1.fna.fbcdn.net/v/t51.2885-19/383156242_2472788512880655_2504760637767351115_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fccu13-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=NCXW9DfmCU8AX9djx6r&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBWXdQ4USb3g5pH-sX-XENOMJHdBwZ-NSCYBVBmlgG-dQ&oe=652D8B91&_nc_sid=8b3546' }} // Replace with your profile image URL
+        source={{ uri: 'https://www.salnet.xyz/5.png' }} // Replace with your profile image URL
         style={tw`w-22 h-22 border border-neutral-200 rounded-full mx-auto`}
                     />
     </View>
