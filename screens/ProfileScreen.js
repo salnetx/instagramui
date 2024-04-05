@@ -42,7 +42,7 @@ function ProfileScreen({navigation}) {
     <Text style={[styles.subtitle, tw`text-center`]}>Following</Text>
     </View>
 
-    
+       
 
     </View>
 
